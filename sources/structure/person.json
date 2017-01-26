@@ -1,0 +1,20 @@
+{
+    "formName":"person",
+    "fields":[{
+            "fieldLabel":"Name",
+            "fieldValue":"name"
+        },
+        {
+            "fieldLabel":"Passport Number",
+            "fieldValue":"passport.number"
+        },
+        {
+            "fieldLabel":"City of birth",
+            "fieldValue":"passport.birthaddress.city"
+        },
+        {
+            "fieldLabel":"Region of birth",
+            "fieldValue":"passport.birthaddress.region"
+        }
+    ]
+}

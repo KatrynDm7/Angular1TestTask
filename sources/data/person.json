@@ -1,0 +1,12 @@
+{
+    "person": {
+        "name": "Test",
+        "passport": {
+            "number":"4141 289723",
+            "birthaddress": {
+                "city": "SPb",
+                "region": "SPb"
+            }
+        }
+    }
+}
